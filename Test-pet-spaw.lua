@@ -1,6 +1,3 @@
--- Script para Grow a Garden: Transferir pets específicos e expulsar jogador
--- Compatível com Delta e Krnl
-
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Workspace = game:GetService("Workspace")
