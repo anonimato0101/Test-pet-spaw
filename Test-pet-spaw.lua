@@ -12,6 +12,9 @@ local petsToTransfer = {
     "Corrupted Kitsune",
     "Red Fox",
     "Butterfly",
+    "dog"
+    "bunny"
+    "golden lab"
     "Disco Bee",
     "Queen Bee",
     "Trex",
